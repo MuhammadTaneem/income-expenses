@@ -163,10 +163,3 @@ EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD')
 # EMAIL_SSL_KEYFILE = config('EMAIL_SSL_KEYFILE')
 # EMAIL_SSL_CERTFILE = config('EMAIL_SSL_CERTFILE')
 
-#
-# EMAIL_HOST = 'smtp.gmail.com'
-# EMAIL_PORT = 587
-# EMAIL_HOST_USER = 'famouswebdeveloper@gmail.com'
-# DEFAULT_FROM_EMAIL = 'famouswebdeveloper@gmail.com'
-# EMAIL_HOST_PASSWORD = 'nopasswordneed'
-# EMAIL_USE_TLS = True
