@@ -1,4 +1,4 @@
- pip install -r requirements.txt
- python manage.py  makemigrations
- python manage.py migrate
-[live server:]( https://income-expenditure.herokuapp.com/)
+ **pip install -r requirements.txt**\
+ python manage.py  makemigrations\
+ python manage.py migrate\
+**[live server]( https://income-expenditure.herokuapp.com/)**
